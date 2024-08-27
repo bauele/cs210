@@ -1,5 +1,7 @@
-# cs210
-Repository for my CS-210 class 
+# CS-210 Programming Languages
+Investment interest calculator written in C++.
+
+<img  src="http://data.bauele.com/cs210-project-two.png" width="650" />
 
 **Summarize the project and what problem it was solving.**
 
